@@ -4118,16 +4118,16 @@
         <Background Type="CT_RAW" Source="FFAE81FF" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF19E589" />
-        <Foreground Type="CT_RAW" Source="FF053C24" />
+        <Background Type="CT_RAW" Source="FF053C24" />
+        <Foreground Type="CT_RAW" Source="FF19E589" />
       </Color>
       <Color Name="StatusBarDebugging">
-        <Background Type="CT_RAW" Source="FFFFDB7D" />
-        <Foreground Type="CT_RAW" Source="FF634C10" />
+        <Background Type="CT_RAW" Source="FF634C10" />
+        <Foreground Type="CT_RAW" Source="FFFFDB7D" />
       </Color>
       <Color Name="StatusBarNoSolution">
-        <Background Type="CT_RAW" Source="FFAE81FF" />
-        <Foreground Type="CT_RAW" Source="FF36166F" />
+        <Background Type="CT_RAW" Source="FF36166F" />
+        <Foreground Type="CT_RAW" Source="FFAE81FF" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
         <Background Type="CT_RAW" Source="FF19E589" />
@@ -4879,7 +4879,7 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
     </Category>
-    <Category Name="MatchMargin colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="MatchColor">
         <Background Type="CT_RAW" Source="FF00248F" />
         <Foreground Type="CT_RAW" Source="FF841ECC" />
