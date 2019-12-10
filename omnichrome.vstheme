@@ -4957,8 +4957,8 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF39394F" />
+        <Foreground Type="CT_RAW" Source="FF39394F" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
@@ -5334,7 +5334,7 @@
       </Color>
       <Color Name="xml literal - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF92672" />
+        <Foreground Type="CT_RAW" Source="FF66D9EF" />
       </Color>
       <Color Name="xml literal - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5482,19 +5482,19 @@
       </Color>
       <Color Name="viasfora.rainbow.1">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFBC69" />
       </Color>
       <Color Name="viasfora.rainbow.2">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFF92672" />
       </Color>
       <Color Name="viasfora.rainbow.3">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF19E589" />
       </Color>
       <Color Name="viasfora.rainbow.4">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFAE81FF" />
       </Color>
       <Color Name="viasfora.rainbow.5">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5506,7 +5506,7 @@
       </Color>
       <Color Name="viasfora.rainbow.7">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE72D2D" />
       </Color>
       <Color Name="viasfora.rainbow.8">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5514,7 +5514,7 @@
       </Color>
       <Color Name="viasfora.rainbow.9">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF215F55" />
       </Color>
       <Color Name="viasfora.rainbow.tip.highlight">
         <Background Type="CT_RAW" Source="FF7394F7" />
@@ -5617,12 +5617,12 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="viasfora.line.current">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF39394F" />
+        <Foreground Type="CT_RAW" Source="FF39394F" />
       </Color>
       <Color Name="viasfora.keyword.flowcontrol">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF7AA5FF" />
       </Color>
       <Color Name="viasfora.string.format.specifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5786,7 +5786,7 @@
       </Color>
       <Color Name="JadeKeywordFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFF500FF" />
       </Color>
       <Color Name="JadeFilterFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5870,7 +5870,7 @@
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF00F2" />
+        <Foreground Type="CT_RAW" Source="FF66D9EF" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5878,7 +5878,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCDFFF7" />
+        <Foreground Type="CT_RAW" Source="FFFFDB7D" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7456,7 +7456,7 @@
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC969" />
+        <Foreground Type="CT_RAW" Source="FF5CCBFF" />
       </Color>
       <Color Name="Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7472,7 +7472,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF92672" />
+        <Foreground Type="CT_RAW" Source="FFFF5190" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7512,11 +7512,11 @@
       </Color>
       <Color Name="SQL System Table">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB9E873" />
+        <Foreground Type="CT_RAW" Source="FF66D9EF" />
       </Color>
       <Color Name="SQL System Function">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC975D5" />
+        <Foreground Type="CT_RAW" Source="FFFF7DD1" />
       </Color>
       <Color Name="SQL Operator">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7524,7 +7524,7 @@
       </Color>
       <Color Name="SQL String">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCB4141" />
+        <Foreground Type="CT_RAW" Source="FF19E589" />
       </Color>
       <Color Name="SQLCMD Command">
         <Background Type="CT_RAW" Source="FF484848" />
@@ -7641,11 +7641,11 @@
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF17171A" />
+        <Background Type="CT_RAW" Source="FF222224" />
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FF616180" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
