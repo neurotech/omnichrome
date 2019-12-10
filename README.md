@@ -1,2 +1,2 @@
 # omnichrome
- A colour scheme for Visual Studio 2019
+ A theme for Visual Studio 2019.
