@@ -4801,7 +4801,7 @@
         <Background Type="CT_RAW" Source="FFE8E8E9" />
       </Color>
       <Color Name="PluginFontEditorMarginColor">
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FF49FF00" />
       </Color>
       <Color Name="PluginFontEditorNumberColor">
         <Foreground Type="CT_RAW" Source="FFA31515" />
@@ -4910,7 +4910,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CodeReview.SelectedComment.AnchorPoint">
         <Background Type="CT_RAW" Source="FF305F97" />
@@ -5234,19 +5234,19 @@
       </Color>
       <Color Name="module name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FF19E589" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FFFFDB7D" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5278,27 +5278,27 @@
       </Color>
       <Color Name="xml doc comment - comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml doc comment - entity reference">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml doc comment - text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5318,7 +5318,7 @@
       </Color>
       <Color Name="xml literal - comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF378161" />
       </Color>
       <Color Name="xml literal - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5630,7 +5630,7 @@
       </Color>
       <Color Name="viasfora.keyword.linq">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="viasfora.text.obfuscated">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5858,11 +5858,11 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFC00FF" />
+        <Foreground Type="CT_RAW" Source="FFD3D5F2" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0015FF" />
+        <Foreground Type="CT_RAW" Source="FF66D9EF" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5882,7 +5882,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAE81FF" />
+        <Foreground Type="CT_RAW" Source="FFFFDB7D" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6625,7 +6625,7 @@
     </Category>
     <Category Name="SolutionErrorFilter" GUID="{669949b4-7f07-4ee5-919a-5d7635b30b7d}">
       <Color Name="ErrorSquiggle">
-        <Background Type="CT_RAW" Source="FFFC3E36" />
+        <Background Type="CT_RAW" Source="FFF9254B" />
       </Color>
       <Color Name="WarningSquiggle">
         <Background Type="CT_RAW" Source="FF95DB7D" />
@@ -6641,7 +6641,7 @@
         <Background Type="CT_RAW" Source="FFB8CDFF" />
       </Color>
       <Color Name="ErrorSquiggleSelectedActive">
-        <Background Type="CT_RAW" Source="FFFF9999" />
+        <Background Type="CT_RAW" Source="FFF9254B" />
       </Color>
       <Color Name="WarningSquiggleSelectedActive">
         <Background Type="CT_RAW" Source="FFCCFFCC" />
@@ -6650,7 +6650,7 @@
         <Background Type="CT_RAW" Source="FFE0ECFF" />
       </Color>
       <Color Name="ErrorSquiggleSelectedInactive">
-        <Background Type="CT_RAW" Source="FFFC3E36" />
+        <Background Type="CT_RAW" Source="FFF9254B" />
       </Color>
       <Color Name="WarningSquiggleSelectedInactive">
         <Background Type="CT_RAW" Source="FF95DB7D" />
@@ -6904,7 +6904,7 @@
     <Category Name="Task Runner Explorer" GUID="{af57483a-a3e2-4330-a7cd-21f3dc681594}">
       <Color Name="PlainText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC0C0C0" />
+        <Foreground Type="CT_RAW" Source="FFF1EFF7" />
       </Color>
       <Color Name="SelectedText">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7532,7 +7532,7 @@
       </Color>
       <Color Name="Error">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD85050" />
+        <Foreground Type="CT_RAW" Source="FFF9254B" />
       </Color>
       <Color Name="XAML Text">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7680,7 +7680,7 @@
       </Color>
       <Color Name="syntax error">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFC3E36" />
+        <Foreground Type="CT_RAW" Source="FFE72D2D" />
       </Color>
       <Color Name="hinted suggestion">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7696,7 +7696,7 @@
       </Color>
       <Color Name="compiler warning">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF95DB7D" />
+        <Foreground Type="CT_RAW" Source="FF19E589" />
       </Color>
       <Color Name="Code Snippet Field">
         <Background Type="CT_RAW" Source="FF5B5B5B" />
